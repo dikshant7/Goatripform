@@ -79,6 +79,6 @@ $con->close();
             <button style="background-color: rgb(197, 141, 197);" class="btn1">submit</button>
         </form>
     </div>
-    <script src="index.js"></script>
+    
 </body>
 </html>
